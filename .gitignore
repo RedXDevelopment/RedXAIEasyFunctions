@@ -1,0 +1,24 @@
+# 🔒 PyPI Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# 🔒 Secrets & Private Folders
+Hidden/
+.env
+
+# Ignore venv from GitHub pushes
+venv/
+
+
+
+# 🔒 Dev & Editor Files
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+*.log
+*.zip
+555551
