@@ -7,8 +7,8 @@ setup(
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="MainDirectory",
-    author_email="RedXDevelopment@example.com",  # Replace with a valid email
-    url="https://github.com/YourUsername/RedXAIEasyFunctions",
+    author_email="RedXDevelopment1998@gmail.com",  # ✅ This is valid
+    url="https://github.com/MainDirectory/RedXAIEasyFunctions",
     packages=find_packages(),
     include_package_data=True,
     classifiers=[

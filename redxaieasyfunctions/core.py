@@ -198,7 +198,7 @@ def EasyProjectTree(project_path: str, tree_file_name: str):
     except Exception as e:
         print(f"EasyProjectTree Error: {e}")
 
-EasyProjectTree(LocalizePath("README.md"),"TreeForGPT")
+EasyProjectTree(LocalizePath("Root.txt"),"TreeForGPT")
 
 import time
 

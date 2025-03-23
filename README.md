@@ -32,7 +32,7 @@ pip install RedXAIEasyFunctions
 
 ##Import into your code:
 
-from redxeasyfunctions import *
+from redxaieasyfunctions import *
 
 #📚 Full Function Reference & Usage Examples
 
