@@ -4,4 +4,4 @@ build-backend = "setuptools.build_meta"
 python -m build
 [project]
 name = "redxaieasyfunctions"
-version = "1.0.1"
+version = "1.0.2"
