@@ -1,7 +1,16 @@
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
-python -m build
+
 [project]
-name = "redxaieasyfunctions"
-version = "1.0.2"
+name = "RedXAIEasyFunctions"
+version = "1.0.1"
+
+
+dynamic = [
+    "description",       
+    "readme",            
+    "requires-python",    
+    "authors",          
+    "classifiers"        
+]
